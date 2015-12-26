@@ -1,8 +1,10 @@
-# Casper
+﻿# キャスパー物語
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+Theme for Sengoku Nadeko.
 
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+Based on the default theme for [Ghost](http://github.com/tryghost/ghost/). To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+
+And now here's some serious stuff that I didn't really care to remove. :)
 
 ## Copyright & License
 
