@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGA,IAAK;EACD,IAAI,EAAE,2BAAgB;EACtB,KAAK,EAJO,IAAI",
+"sources": ["../../sass/layouts/index.scss"],
+"names": [],
+"file": "import.css"
+}
